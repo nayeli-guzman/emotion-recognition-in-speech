@@ -1,0 +1,12 @@
+pandas
+numpy
+os
+librosa
+tqdm
+tensorflow
+matplotlib
+seaborn
+scikit-learn
+umap-learn
+xgboost
+keras
